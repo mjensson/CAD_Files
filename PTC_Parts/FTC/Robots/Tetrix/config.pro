@@ -1,0 +1,2 @@
+﻿orientation isometric
+preferred_export_format stheno

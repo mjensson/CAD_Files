@@ -1,0 +1,92 @@
+﻿ND_RelParSet_K01 = {
+
+Name = AL_2024-T3X_RWDC
+
+PARAMETERS =
+{
+  Name = PTC_MATERIAL_DESCRIPTION
+  Type = String
+  Default = 'Aluminum 2024-T3x
+RWDC '
+  Access = Full
+},
+{
+  Name = TEMPERATURE
+  Type = Real
+  Default = 0.000000e+00 F
+  Access = Full
+},
+{
+  Name = PTC_INITIAL_BEND_Y_FACTOR
+  Type = Real
+  Default = 5.000000e-01
+  Access = Full
+},
+{
+  Name = PTC_BEND_TABLE
+  Type = String
+  Default = ''
+  Access = Full
+},
+{
+  Name = PTC_MATERIAL_TYPE
+  Type = Integer
+  Default = 9
+  Access = Locked
+},
+{
+  Name = PTC_FAILURE_CRITERION_TYPE
+  Type = String
+  Default = 'NONE'
+  Access = Locked
+},
+{
+  Name = PTC_FATIGUE_TYPE
+  Type = String
+  Default = 'NONE'
+  Access = Locked
+},
+{
+  Name = PTC_MATERIAL_SUB_TYPE
+  Type = String
+  Default = 'LINEAR'
+  Access = Locked
+},
+{
+  Name = PTC_MASS_DENSITY
+  Type = Real
+  Default = 2.601920e-04 lbf sec^2/in^4
+  Access = Full
+},
+{
+  Name = PTC_POISSON_RATIO
+  Type = Real
+  Default = 3.300000e-01
+  Access = Full
+},
+{
+  Name = PTC_YOUNG_MODULUS
+  Type = Real
+  Default = 1.060000e+07 psi
+  Access = Full
+},
+{
+  Name = PTC_THERMAL_EXPANSION_COEF
+  Type = Real
+  Default = 1.250000e-05 /F
+  Access = Full
+},
+{
+  Name = PTC_TENSILE_ULTIMATE_STRESS
+  Type = Real
+  Default = 6.305000e+01 ksi
+  Access = Full
+},
+{
+  Name = PTC_COMPR_ULTIMATE_STRESS
+  Type = Real
+  Default = -6.305000e+01 ksi
+  Access = Full
+}
+
+}

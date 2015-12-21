@@ -1,0 +1,98 @@
+﻿                    MASS PROPERTIES OF THE ASSEMBLY PTC_ROBOT
+
+                         VOLUME =  7.5475544e+01 INCH^3
+                   SURFACE AREA =  1.0655046e+03 INCH^2
+                AVERAGE DENSITY =  3.3346365e-04 LBF SEC^2 / IN / INCH^3
+                           MASS =  2.5168350e-02 LBF SEC^2 / IN 
+
+         CENTER OF GRAVITY with respect to _PTC_ROBOT coordinate frame:
+X   Y   Z           9.2063894e+00  2.3189632e+00 -2.5982792e+00  INCH
+
+ INERTIA with respect to _PTC_ROBOT coordinate frame:  (LBF SEC^2 / IN * INCH^2)
+
+INERTIA TENSOR:
+Ixx Ixy Ixz         7.2367476e-01 -9.0234205e-01  6.0061556e-01
+Iyx Iyy Iyz        -9.0234205e-01  3.2723868e+00  1.4687949e-01
+Izx Izy Izz         6.0061556e-01  1.4687949e-01  3.2909260e+00
+
+    INERTIA at CENTER OF GRAVITY with respect to _PTC_ROBOT coordinate frame:
+                                                   (LBF SEC^2 / IN * INCH^2)    
+INERTIA TENSOR:
+Ixx Ixy Ixz         4.1841677e-01 -3.6501593e-01 -1.4307603e-03
+Iyx Iyy Iyz        -3.6501593e-01  9.6926479e-01 -4.7677208e-03
+Izx Izy Izz        -1.4307603e-03 -4.7677208e-03  1.0223718e+00
+
+            PRINCIPAL MOMENTS OF INERTIA:  (LBF SEC^2 / IN * INCH^2)
+I1  I2  I3          2.3655693e-01  1.0222843e+00  1.1512121e+00
+
+         ROTATION MATRIX from _PTC_ROBOT orientation to PRINCIPAL AXES:
+                       0.89506       -0.01644        0.44564
+                       0.44592        0.02327       -0.89477
+                       0.00434        0.99959        0.02816
+
+    ROTATION ANGLES from _PTC_ROBOT orientation to PRINCIPAL AXES (degrees):
+angles about x  y  z   88.197         26.464          1.052 
+
+                RADII OF GYRATION with respect to PRINCIPAL AXES:
+R1  R2  R3          3.0657763e+00  6.3732136e+00  6.7631699e+00  INCH
+
+
+
+                  MASS PROPERTIES OF COMPONENTS OF THE ASSEMBLY
+             (in assembly units and the _PTC_ROBOT coordinate frame)
+
+                                     MATERIAL
+           DENSITY        MASS       C.G.:  X        Y         Z
+
+    DRIVE_TRAIN_SUB                  UNKNOWN
+         1.88511e-04  4.54848e-03  5.03861e+00 -6.04003e-01  1.23413e+00
+    CHANNEL_160_2011                 METAL_ALUMINIUM_5052
+         2.50720e-04  3.70583e-04  7.99038e-01  6.29921e-01 -2.51969e+00
+    DRIVE_TRAIN_SUB                  UNKNOWN
+         1.88511e-04  4.54848e-03  5.03790e+00 -6.05454e-01 -6.28136e+00
+    DC_MOTOR-MOUNT                   METAL_ALUMINIUM_5052
+         2.50720e-04  2.65678e-04  2.78660e+00  6.05758e-01 -5.04322e+00
+    DC_GEARHEAD_MOTOR                UNKNOWN
+         3.24204e-04  1.24148e-03  2.84542e+00  8.88191e-01 -4.28599e+00
+    GEAR_40_2011                     METAL_ALUMINIUM_6061
+         2.52533e-04  6.70799e-05  3.08137e+00  9.46478e-01 -6.10414e+00
+    DC_MOTOR-MOUNT                   METAL_ALUMINIUM_5052
+         2.50720e-04  2.65678e-04  2.78660e+00  6.05758e-01  0.00000e+00
+    DC_GEARHEAD_MOTOR                UNKNOWN
+         3.24204e-04  1.24148e-03  2.84829e+00  8.89018e-01 -7.57336e-01
+    GEAR_40_2011                     METAL_ALUMINIUM_6061
+         2.52533e-04  6.70799e-05  3.08900e+00  9.45460e-01  1.06024e+00
+    CHANNEL_160_2011                 METAL_ALUMINIUM_5052
+         2.50720e-04  3.70583e-04  5.20848e+00  6.29921e-01 -2.52755e+00
+    CHANNEL_106_2011                 METAL_ALUMINIUM_5052
+         2.50720e-04  2.21033e-04  1.00600e+01  6.29921e-01 -4.88692e+00
+    BRACKET_SERVO_SINGLE             AL2014
+         2.61400e-04  7.41864e-05  7.27886e+00  2.85120e-01 -5.22865e+00
+    SERVO_HS475_360                  UNKNOWN
+         1.18646e-04  2.29116e-04  7.26067e+00  6.53544e-01 -4.84465e+00
+    GEAR_METRIC_120_2011             METAL_ALUMINIUM_6061
+         2.52533e-04  6.41037e-04  1.13405e+01  6.29914e-01 -4.00634e+00
+    GEAR_40_2011                     METAL_ALUMINIUM_6061
+         2.52533e-04  6.70799e-05  8.82069e+00  6.29921e-01 -4.00201e+00
+    GEAR_80_2011                     METAL_ALUMINIUM_6061
+         2.52533e-04  2.58006e-04  8.82130e+00  6.29742e-01 -3.75791e+00
+    CHANNEL_106_2011                 METAL_ALUMINIUM_5052
+         2.50720e-04  2.21033e-04  1.00978e+01  6.29921e-01 -1.69191e-01
+    BRACKET_L-ANGLE_2011             METAL_ALUMINIUM_5052
+         2.50720e-04  3.95476e-05  1.13386e+01  1.56776e+00 -4.00744e-01
+    BRACKET_L-ANGLE_2011             METAL_ALUMINIUM_5052
+         2.50720e-04  3.95476e-05  1.13393e+01  1.56776e+00 -4.65757e+00
+    GEAR_40_2011                     METAL_ALUMINIUM_6061
+         2.52533e-04  6.70799e-05  6.89557e+00  6.53544e-01 -3.68829e+00
+    SIDE_ARM                         AL_2024-T3X_RWDC
+         2.60192e-04  2.28844e-04  1.26124e+01  2.82241e+00 -4.24869e+00
+    SCOOP                            ALUMINIUM
+         2.59008e-03  4.08648e-03  1.54036e+01  5.93763e+00 -2.49538e+00
+    SIDE_ARM                         AL_2024-T3X_RWDC
+         2.60192e-04  2.28844e-04  1.26184e+01  2.82241e+00 -7.32474e-01
+    TIE_BAR                          ALUMINIUM
+         2.59008e-03  3.06210e-04  1.28165e+01  4.21068e+00 -4.18999e+00
+    TIE_BAR                          ALUMINIUM
+         2.59008e-03  3.06210e-04  1.28223e+01  4.21068e+00 -7.91880e-01
+    TUBE                             ALUMINIUM
+         2.59008e-03  5.16748e-03  1.54737e+01  6.07325e+00 -2.49550e+00
